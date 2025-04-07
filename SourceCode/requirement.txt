@@ -1,0 +1,4 @@
+All installed library:
++pysat:
+  ~For Windows: Open command prompt or power shell
+  ~Syntax: pip install python-pysat
